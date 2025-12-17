@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "BLADE",
+  "base_artist": "BLUE ENCOUNT",
+  "createdAt": "2025-12-17T06:04:14.017885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flat Of The Blade",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/01_Flat_Of_The_Blade_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blade Runner - End Titles",
+      "artist": "Vangelis",
+      "has_synced": false,
+      "path": "select/02_Blade_Runner_-_End_Titles_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Main Titles (From \"Blade Runner\")",
+      "artist": "Vangelis",
+      "has_synced": true,
+      "path": "select/03_Main_Titles_(From__Blade_Runner_)_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Black Blade",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/04_Black_Blade_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flash of the Blade",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/05_Flash_of_the_Blade_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flash of the Blade",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/06_Flash_of_the_Blade_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Johnny Blade",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/07_Johnny_Blade_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "End Title (Blade Runner)",
+      "artist": "Hipnosis",
+      "has_synced": false,
+      "path": "select/08_End_Title_(Blade_Runner)_Hipnosis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "End Title - Blade Runner",
+      "artist": "Hypnosis",
+      "has_synced": false,
+      "path": "select/09_End_Title_-_Blade_Runner_Hypnosis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "6\" Gold Blade",
+      "artist": "The Birthday Party",
+      "has_synced": false,
+      "path": "select/10_6__Gold_Blade_The_Birthday_Party.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slang Blade",
+      "artist": "Binary Star",
+      "has_synced": true,
+      "path": "select/11_Slang_Blade_Binary_Star.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slang Blade (Intro)",
+      "artist": "Binary Star",
+      "has_synced": false,
+      "path": "select/12_Slang_Blade_(Intro)_Binary_Star.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Almost Human - from the Original Motion Picture Soundtrack Blade Runner 2049",
+      "artist": "Lauren Daigle",
+      "has_synced": true,
+      "path": "select/13_Almost_Human_-_from_the_Original_Motion_Picture_Soundtrack_Blade_Runner_2049_Lauren_Daigle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BLADE",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": false,
+      "path": "select/pl_01_BLADE_BLUE_ENCOUNT.txt"
+    }
+  ]
+}
